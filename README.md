@@ -1,0 +1,2 @@
+# NODE-RED
+Node-RED is a visual programming environment that allows you to do numerous things without having to write a single line of code. Node-RED also allows developers to write JavaScript and utilize the NodeJS API to enhance the functionality of a node or flow, which is a significant advantage.In the given experiment, we will be performing web-based monitoring of operations using Node-RED. The objective of the experiment is to control the operation of a LED.
